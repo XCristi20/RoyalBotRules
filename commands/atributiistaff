@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'appstaffroyal',
+    name: 'atributiistaff',
     description: "Staff Applications for Thunder Nation Romania!",
     execute(message, args){
 
@@ -8,16 +8,16 @@ module.exports = {
             //title: 'Help',
             //url: 'https://discord.js.org',
             author: {
-                name: '◥◣◆◢◤ | APLICAȚII STAFF',
+                name: '◥◣◆◢◤ | ATRIBUȚII STAFF',
                 //icon_url: 'https://cdn.discordapp.com/icons/643026804730363904/a614246f14d01ae6203de4f797836fa0.png?size=4096'
                 //icon_url: 'https://cdn.discordapp.com/avatars/942393721062846525/2736e5c73759954a7bb3645ba2dcd9db.png?size=4096'
                 //url: 'https://discord.js.org',
               },
-              description: 'Înainte de a aplica pentru a intra în staff, trebuie să iei în considerare că avem câteva cerințe pe care dorim să le respecți cu strictețe în momentul în care aplici. De asemenea, recomandăm să arunci un ochi peste <#984810031629336648>.\n \u200b',
+              description: 'Ca membru staff nu ai gradul și accesele doar pentru a te etala; acestea vin cu diverse responsabilități și atribuții.\n \u200b',
               fields: [
                   {
-                      name: '◥◣◆◢◤ | **__CERINȚE__:**',
-                      value: '◆ | Minim 14 ani;\n ◆ | Minim lvl 15; \n ◆ | Minim o oră petrecută pe voice; \n ◆ | Un istoric cât mai favorabil, fără prea multe abateri de la regulament; \n◆ | Vechimea este destul de importantă, dorim persoane familiaritate cu serverul, minim 5 zile petrecute pe server;\n \u200b',
+                      name: 'Support',
+                      value: 'Rolul de Support e primul grad din staff. Acesta are acces la canalele special dedicate staff-ului alături de log-uri și acces la comenzi precum `/warn`.\n Gradul are ca responsabilitate principală ajutatul membrilor de pe server, să le răspundă la întrebările legate de acesta și să ia parte în mod activ la dezvoltarea acestuia prin membrii, boosteri sau parteneri aduși.\u200b',
                       inline: false,
                   },
                 {
