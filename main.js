@@ -79,6 +79,8 @@ client.on('messageCreate', message => {
         client.commands.get('infoboost').execute(message, args, Discord); // INFORMAȚII BOOST
     } else if (command == 'rulesemperors') {
         client.commands.get('rulesemperors').execute(message, args, Discord); // INFORMAȚII BOOST
+    } else if (command == 'appstaffroyal') {
+        client.commands.get('appstaffroyal').execute(message, args, Discord); // INFORMAȚII BOOST
     }
 });
 
