@@ -22,7 +22,7 @@ module.exports = {
                 },
               {
                 name: '**__CERINȚE__:**',
-                value: ' • Fondatorii trebuie să aibă minim 14 ani; \n • Server-ul trebuie să aibă minim 100 de membrii; \n • O medie decentă de oameni online; \n • Server-ul trebuie să aibă minim o săptămână vechime; \n • Server-ul trebuie să fie __SFW__ și să respecte ToS-ul Discord-ului; \n • Server-ul trebuie să fie bine configurat, fără membrii care au accese la canale pe care nu ar trebui să le vadă sau să poată spama everyone / link-uri, ș.a.m.d; \n • Dacă sunteți acceptați, fondatorii trebuie să intre pe server-ul nostru, și de asemenea, trebuie să acordați persoanei cu care ați încheiat parteneriatul gradul de Partener / VIP sau grade echivalente;',
+                value: '◆ | Fondatorii trebuie să aibă minim 14 ani;\n◆ | Server-ul trebuie să aibă minim 100 de membrii;\nO medie decentă de oameni online;\n◆ | Server-ul trebuie să aibă minim o săptămână vechime;\n◆ | Server-ul trebuie să fie __SFW__ și să respecte ToS-ul Discord-ului;\n◆ | Server-ul trebuie să fie bine configurat, fără membrii care au accese la canale pe care nu ar trebui să le vadă sau să poată spama everyone / link-uri, ș.a.m.d;\n◆ | Dacă sunteți acceptați, fondatorii trebuie să intre pe server-ul nostru, și de asemenea, trebuie să acordați persoanei cu care ați încheiat parteneriatul gradul de Partener / VIP sau grade echivalente;',
                 },
                 {
                     name: '\u200b',
@@ -31,21 +31,11 @@ module.exports = {
                 },
                 {
                     name: '**__INFORMAȚII__:**',
-                    value: ' • Dacă ai fost respins, poți face altă cerere după cel puțin 3 zile de la verdict; \n • Cererile făcute în bătaie de joc vor fi automat respinse; \n • Doar persoanele din administrația server-ului pot da verdict cererilor; \n • Dacă staff-ul sau administrația server-ului dvs. a încălcat în mod repetat regulamentul Thunder-ului, cererea va fi automat respinsă;',
+                    value: '◆ | Dacă ai fost respins, poți face altă cerere după cel puțin 3 zile de la verdict;\n◆ | Cererile făcute în bătaie de joc vor fi automat respinse;\n◆ | Doar persoanele din administrația server-ului pot da verdict cererilor;\nDacă staff-ul sau administrația server-ului dvs. a încălcat în mod repetat regulamentul serverului, cererea va fi automat respinsă;\n\u200b◥◣◆◢◤ | **PENTRU A APLICA \n\u200b◥◣◆◢◤ | __NE REZERVĂM DREPTUL DE A NE ALEGE PARTENERII ȘI DE A ȘTERGE ORICÂND PARTENERIATUL FĂRĂ A VĂ ANUNȚA, ÎN CAZUL ÎN CARE STAFF-UL DUMNEAVOASTRĂ ESTE PRINS CĂ NE ÎNCALCĂ REGULAMENTUL!__',
                 }, 
-                {
-                    name: '\u200b',
-                    value: '\u200b',
-                    inline: false,
-                }, 
-                {
-                    name: '__NE REZERVĂM DREPTUL DE A NE ALEGE PARTENERII ȘI DE A ȘTERGE ORICÂND PARTENERIATUL FĂRĂ A VĂ ANUNȚA, ÎN CAZUL ÎN CARE STAFF-UL DUMNEAVOASTRĂ ESTE PRINS CĂ NE ÎNCALCĂ REGULAMENTUL!__',
-                    value: 'Ne rezervăm toate drepturile pentru model.',
-                }, 
-                
             ],
             image: {
-                url: 'https://cdn.discordapp.com/attachments/643117740869156864/969315746549231656/mrUZGe9-1.png',
+                url: 'https://media.discordapp.net/attachments/984706701066387470/988758379960860722/Screenshot_104.png',
               },
             footer: {
                 text: 'Developed by Cristi20#3364',
