@@ -29,7 +29,7 @@ module.exports = {
               },
             footer: {
                 text: 'Developed by Cristi20#3364',
-                icon_url: 'https://cdn.discordapp.com/avatars/246703784082931712/2f38de8c01a82aa1ae2636278158009c.png?size=4096',
+                icon_url: 'https://cdn.discordapp.com/attachments/984706701066387470/986167634359877642/ROYAL.png',
             },
     
             timestamp: new Date(),
