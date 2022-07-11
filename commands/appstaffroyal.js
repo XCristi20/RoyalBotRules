@@ -22,7 +22,7 @@ module.exports = {
                   },
                 {
                     name: '`◥◣◆◢◤` | **__INFORMAȚII__:**',
-                    value: '◆ | Doar persoanele din administrația serverului pot da verdict cererilor. Ceilalți membrii staff pot doar vota;\n◆ | Dorim o persoană calmă care să își controleze nervii și comportamentul, deoarece o astfel de funcție poate să fie stresantă;\n◆ | Stăpânirea limbii române e obligatorie, nu dorim prea multe greșeli gramaticale;\n◆ | Dacă ai fost respins, poți face altă cerere peste 3 zile de la verdict;\n◆ | Dacă ai grad pe unul dintre serverele afiliate, asta nu înseamă că ești apt(ă) să te alături staff-ului de aici;\n ◆ | Cererile făcute în bătaie de joc vor fi automat respinse.\n \u200b',
+                    value: '◆ | Doar persoanele din administrația serverului pot da verdict cererilor. Ceilalți membrii staff pot doar vota;\n◆ | Dorim o persoană calmă care să își controleze nervii și comportamentul, deoarece o astfel de funcție poate să fie stresantă;\n◆ | Stăpânirea limbii române e obligatorie, nu dorim prea multe greșeli gramaticale;\n◆ | Dacă ai fost respins, poți face altă cerere peste 3 zile de la verdict;\n◆ | Dacă ai grad pe unul dintre serverele afiliate, asta nu înseamă că ești apt(ă) să te alături staff-ului de aici;\n ◆ | Cererile făcute în bătaie de joc vor fi automat respinse.\n\u200b\n◥◣◆◢◤ | **PENTRU A APLICA FOLOSEȘTE __/APPLY STAFF__!**\n\u200b',
                 }, 
                 {
                     name: '◥◣◆◢◤ | __NE REZERVĂM DREPTUL DE A NE ALEGE STAFF-UL!__',
