@@ -21,7 +21,7 @@ module.exports = {
                 },
                 {
                     name: '**__INFORMAȚII__:**',
-                    value: '◆ | Dacă ai fost respins, poți face altă cerere după cel puțin 3 zile de la verdict;\n◆ | Cererile făcute în bătaie de joc vor fi automat respinse;\n◆ | Doar persoanele din administrația server-ului pot da verdict cererilor;\nDacă staff-ul sau administrația server-ului dvs. a încălcat în mod repetat regulamentul serverului, cererea va fi automat respinsă;\n \u200b◥◣◆◢◤ | **PENTRU A APLICA FOLOSEȘTE __/APPLY PARTENERIAT__**\n◥◣◆◢◤ | __NE REZERVĂM DREPTUL DE A NE ALEGE PARTENERII ȘI DE A ȘTERGE ORICÂND PARTENERIATUL FĂRĂ A VĂ ANUNȚA, ÎN CAZUL ÎN CARE STAFF-UL DUMNEAVOASTRĂ ESTE PRINS CĂ NE ÎNCALCĂ REGULAMENTUL!__',
+                    value: '◆ | Dacă ai fost respins, poți face altă cerere după cel puțin 3 zile de la verdict;\n◆ | Cererile făcute în bătaie de joc vor fi automat respinse;\n◆ | Doar persoanele din administrația server-ului pot da verdict cererilor;\nDacă staff-ul sau administrația server-ului dvs. a încălcat în mod repetat regulamentul serverului, cererea va fi automat respinsă;\n \u200b\n◥◣◆◢◤ | **PENTRU A APLICA FOLOSEȘTE __/APPLY PARTENERIAT__**\n◥◣◆◢◤ | __NE REZERVĂM DREPTUL DE A NE ALEGE PARTENERII ȘI DE A ȘTERGE ORICÂND PARTENERIATUL FĂRĂ A VĂ ANUNȚA, ÎN CAZUL ÎN CARE STAFF-UL DUMNEAVOASTRĂ ESTE PRINS CĂ NE ÎNCALCĂ REGULAMENTUL!__',
                 }, 
             ],
             image: {
