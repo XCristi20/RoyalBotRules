@@ -17,12 +17,12 @@ module.exports = {
               fields: [
                   {
                       name: '◥◣◆◢◤ | **__CERINȚE__:**',
-                      value: '◆ | Minim 14 ani;\n ◆ | Minim lvl 15; \n ◆ | Minim o oră petrecută pe voice; \n ◆ | Un istoric cât mai favorabil, fără prea multe abateri de la regulament; \n◆ | Vechimea este destul de importantă, dorim persoane familiaritate cu serverul, minim 5 zile petrecute pe server;\n \u200b',
+                      value: '◆ | Minim 14 ani;\n◆ | Minim lvl 15;\n◆ | Minim o oră petrecută pe voice;\n◆ | Un istoric cât mai favorabil, fără prea multe abateri de la regulament;\n◆ | Vechimea este destul de importantă, dorim persoane familiaritate cu serverul, minim 5 zile petrecute pe server;\n\u200b',
                       inline: false,
                   },
                 {
                     name: '`◥◣◆◢◤` | **__INFORMAȚII__:**',
-                    value: '◆ | Doar persoanele din administrația serverului pot da verdict cererilor. Ceilalți membrii staff pot doar vota; \n ◆ | Dorim o persoană calmă care să își controleze nervii și comportamentul, deoarece o astfel de funcție poate să fie stresantă; \n◆ | Stăpânirea limbii române e obligatorie, nu dorim prea multe greșeli gramaticale; \n ◆ | Dacă ai fost respins, poți face altă cerere peste 3 zile de la verdict;\n ◆ | Dacă ai grad pe unul dintre serverele afiliate, asta nu înseamă că ești apt(ă) să te alături staff-ului de aici; \n ◆ | Cererile făcute în bătaie de joc vor fi automat respinse.\n \u200b',
+                    value: '◆ | Doar persoanele din administrația serverului pot da verdict cererilor. Ceilalți membrii staff pot doar vota;\n◆ | Dorim o persoană calmă care să își controleze nervii și comportamentul, deoarece o astfel de funcție poate să fie stresantă;\n◆ | Stăpânirea limbii române e obligatorie, nu dorim prea multe greșeli gramaticale;\n◆ | Dacă ai fost respins, poți face altă cerere peste 3 zile de la verdict;\n◆ | Dacă ai grad pe unul dintre serverele afiliate, asta nu înseamă că ești apt(ă) să te alături staff-ului de aici;\n ◆ | Cererile făcute în bătaie de joc vor fi automat respinse.\n \u200b',
                 }, 
                 {
                     name: '◥◣◆◢◤ | __NE REZERVĂM DREPTUL DE A NE ALEGE STAFF-UL!__',
